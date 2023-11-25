@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://inf.ethz.ch/'>ETH Zurich, Dept of Computer Science</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://inf.ethz.ch/'>ETH Zurich, Dept of Computer Science</a>.
 
 profile:
   align: right
