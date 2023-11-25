@@ -163,7 +163,7 @@
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if site.gitlab_username -%}
-        {%- capture link -%}https://gitlab.com/{{ site.gitlab_username }}{%- endcapture -%}
+        {%- capture link -%}https://gitlab.ethz.ch/{{ site.gitlab_username }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if site.dblp_url -%}
