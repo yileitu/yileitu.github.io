@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yileitu.github.io/about/sitemap.xml
+Sitemap: https://yileitu.github.io/sitemap.xml
