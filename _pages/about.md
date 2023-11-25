@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>In Folrence, Italy, by a passerby.</p>
+    <p style="font-size: 6px;">In Folrence, Italy. By a passerby.</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
