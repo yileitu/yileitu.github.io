@@ -1,12 +1,16 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Chinese Name
+      value: 涂毅磊
+    - name: Romanized Name
+      value: TU, Yilei
+    - name: Year of Birth
+      value: 1999
+    - name: Nationality
+      value: PR China
+    - name: Pronouns
+      value: He/Him/His
 
 - title: Education
   type: time_table
