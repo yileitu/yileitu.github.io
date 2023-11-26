@@ -41,10 +41,32 @@
   contents:
     - title: Master Thesis
       institution: ETH NLPED Lab
-      year: 2023
+      year: 2023 - 2024
+      location: Zurich, Switzerland
       description:
-        - "Advisor: <a href='https://www.linkedin.com/in/zhijing-jin-9b1b1a1b0/'>Zhijing Jin</a>"
-        - LM Routing
+        - "Advisor: Prof. <a href='https://www.mrinmaya.io/'>Mrinmaya Sachan</a>"
+        - LLM Routing
+    - title: Research Assistant
+      institution: Chair of Applied Economics, ETH Zurich
+      year: 2023
+      location: Zurich, Switzerland
+      description:
+        - "Advisor: Prof. <a href='https://mtec.ethz.ch/people/person-detail.MTY2NTM0.TGlzdC8xMDUwLC0yMDgyMjgwMDQ4.html'>Peter Egger</a>, Dr. <a href='https://susierao.github.io/about/'>Susie Xi Rao</a>"
+        - Annotation and inference engine on scientific literatures
+    - title: Semester Project
+      institution: Rycolab
+      year: 2022 - 2023
+      location: Zurich, Switzerland
+      description:
+        - "Advisor: Prof. <a href='https://rycolab.io/authors/ryan/'>Ryan Cotterell</a>"
+        - Probing
+    - title: Research Assistant
+      institution: Shenzhen Research Institute of Big Data
+      year: 2020 - 2021
+      location: Shenzhen, China
+      description:
+        - "Advisor: Prof. <a href='https://sds.cuhk.edu.cn/en/teacher/268/'>Jianfeng Mao</a>"
+        - ML/AI + Aviation
 
 
 - title: Internships
@@ -53,16 +75,19 @@
     - title: Algorithm Engineer Intern
       department: <a href="https://www.tencent.com/en-us/about.html">Tencent</a>
       year: 2021
+      location: Shenzhen, China
       description:
         - <a href="https://www.fitgroup.com/en/home">Financial Technology (FiT)</a>, Corporate Development Group
     - title: Software Development Engineer Intern
       department: <a href="https://www.huawei.com/en/corporate-governance">Huawei</a>
       year: 2020
+      location: Shenzhen, China
       description:
         - <a href="https://www.huaweicloud.com/intl/en-us/solution/automotive/">Intelligent Automotive Solution (IAS)</a> Business Unit
     - title: Data Research Analyst Intern
       department: <a href="https://www.morningstar.cn/#/">Morningstar</a>
       year: 2019
+      location: Shenzhen, China
       description:
         - Operations Asia Dept.
 
