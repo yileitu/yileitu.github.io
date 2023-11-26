@@ -18,30 +18,53 @@
     - title: MSc in Data Science
       institution: ETH Zurich
       year: 2021 - 2024
-      location: Zurich, Zurich, Switzerland
+      location: Zurich, Switzerland
       description:
         - Department of Computer Science
         - ETH Scholarship
     - title: BSc in Statistics (Stream in Data Science)
       institution: The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
       year: 2017 - 2020
-      location: Shenzhen, Guangdong, China
+      location: Shenzhen, China
       description:
-        - Shenzhen, Guangdong, China
         - School of Data Science (former School of Science and Engineering)
         - First Class Honors
         - Completed the four-year undergraduate program in three years
         - Academic Performance Scholarship; Dean’s List (both 3 consecutive years)
+    - title: Summer Visitor
+      institution: University of California, Berkeley
+      year: 2019
+      location: Berkeley, CA, US
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Master Thesis
+      institution: ETH NLPED Lab
+      year: 2023
+      description:
+        - "Advisor: <a href='https://www.linkedin.com/in/zhijing-jin-9b1b1a1b0/'>Zhijing Jin</a>"
+        - LM Routing
+
 
 - title: Internships
   type: time_table
   contents:
     - title: Algorithm Engineer Intern
-      department: Tencent
-      year: 1933 - 1955
+      department: <a href="https://www.tencent.com/en-us/about.html">Tencent</a>
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - <a href="https://www.fitgroup.com/en/home">Financial Technology (FiT)</a>, Corporate Development Group
+    - title: Software Development Engineer Intern
+      department: <a href="https://www.huawei.com/en/corporate-governance">Huawei</a>
+      year: 2020
+      description:
+        - <a href="https://www.huaweicloud.com/intl/en-us/solution/automotive/">Intelligent Automotive Solution (IAS)</a> Business Unit
+    - title: Data Research Analyst Intern
+      department: <a href="https://www.morningstar.cn/#/">Morningstar</a>
+      year: 2019
+      description:
+        - Operations Asia Dept.
 
 - title: Academic Interests
   type: nested_list
