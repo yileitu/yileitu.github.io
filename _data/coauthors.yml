@@ -1,34 +1,31 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Susie":
+  - firstname: ["Susie", "Susie Xi", "S.", "Susie Xi Rao", "Susie Rao", "Susie X. Rao", "Susie X. R.", "S. R."]
+    url: https://scholar.google.com/citations?user=9Bes4hAAAAAJ
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Lechen":
+  - firstname: ["Lechen", "L.", "L. W.", "Lechen Wang"]
+    url: https://scholar.google.com/citations?hl=en&user=QlvWvMIAAAAJ
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"WangYuan":
+  - firstname: ["Yuan", "Y.", "Y. W.", "Yuan Wang"]
+    url: https://www.researchgate.net/profile/Yuan-Wang-106
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Ryan":
+  - firstname: ["Ryan", "R.", "R. C.", "Ryan Cotterell"]
+    url: https://scholar.google.com/citations?user=DexOqtoAAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Jiaoda":
+  - firstname: ["Jiaoda", "J.", "J. L.", "Jiaoda Li"]
+    url: https://ai.ethz.ch/about-us/people/jiaoda-li.html
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Peter":
+  - firstname: ["Peter", "P.", "P. E.", "P. H. E.", "Peter H. Egger", "Peter Egger"]
+    url: https://scholar.google.com/citations?user=Lc6rZrgAAAAJ
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Xuechun":
+  - firstname: ["Xuechun", "X.", "X. L.", "Xuechun Li"]
+    url: https://scholar.google.com/citations?user=IM48vB4AAAAJ&hl=en
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Jianfeng":
+  - firstname: ["Jianfeng", "J.", "J. M.", "Jianfeng Mao"]
+    url: https://scholar.google.com.sg/citations?user=cDzZKz8AAAAJ&hl=en
