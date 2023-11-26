@@ -14,6 +14,6 @@ profiles:
     content: misc.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p style="font-size: 10px;">Logo adapted from <a href="https://boardgamegeek.com/boardgame/230802/azul">AZUL</a>AZUL by <a href="https://corporate.asmodee.com/">Asmodee</a>.</p>
+      <p style="font-size: 10px;">Logo adapted from <a href="https://boardgamegeek.com/boardgame/230802/azul">AZUL</a> by <a href="https://corporate.asmodee.com/">Asmodee</a>.</p>
       <p style="font-size: 10px;">Yes, we even managed to get sponsorship once from Asmodee CN. </p>
 ---
