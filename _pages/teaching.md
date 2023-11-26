@@ -6,7 +6,6 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 5
 ---
+## ETH Zurich
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- 2023 Fall&nbsp;[401-0647-00L](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173193&semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lang=en)&nbsp;Introduction to Mathematical Optimization&nbsp;Lecturer: Dr. David Adjiashvili
