@@ -11,8 +11,8 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    <p style="font-size: 11px;"><a href="https://en.wikipedia.org/wiki/Piazzale_Michelangelo">Piazzale Michelangelo, Folrence, Italy.</p>
-    <p style="font-size: 11px;">By a passerby.</p>
+    <p style="font-size: 10px;"><a href="https://en.wikipedia.org/wiki/Piazzale_Michelangelo">Piazzale Michelangelo</a>, Folrence, Italy.</p>
+    <p style="font-size: 10px;">By a passerby.</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
