@@ -11,7 +11,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    <p style="font-size: 10px;"><a href="https://en.wikipedia.org/wiki/Piazzale_Michelangelo">Piazzale Michelangelo</a>, Folrence, Italy.</p>
+    <p style="font-size: 10px;"><a href="https://en.wikipedia.org/wiki/Piazzale_Michelangelo">Piazzale Michelangelo</a>, Folrence, Tuscany, Italy.</p>
     <p style="font-size: 10px;">By a passerby.</p>
 
 news: false  # includes a list of news items
@@ -25,4 +25,4 @@ I am actively looking for a PhD position in the field of NLP. If you are interes
 
 I am currently a master student in Data Science at [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch/en.html), Switzerland. I am fortunate to be advised by [Prof. Mrinmaya Sachan](https://www.mrinmaya.io/) and [Prof. Ryan Cotterell](https://rycolab.io/authors/ryan/). My research interests lies in the field of Natural Language Processing (NLP), especially Large Language Models (LLMs).
 
-Previously, I obtained my bachelor degree in Statis from [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), Guangdong, China. I gratefully received advice from [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/en/teacher/268) with focus on ML/AI+Aviation.
+Previously, I obtained my bachelor degree in Statistics (Stream: Data Science) from [School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), Guangdong, China. I gratefully received advice from [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/en/teacher/268) with focus on ML/AI+Aviation.
