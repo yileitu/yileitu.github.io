@@ -18,14 +18,14 @@
     - title: MSc in Data Science
       institution: ETH Zurich
       year: 2021 - 2024
-      location: Zurich, ZH, Switzerland
+      location: Zurich, Switzerland
       description:
         - Department of Computer Science
         - ETH Scholarship
     - title: BSc in Statistics (Stream in Data Science)
       institution: The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
       year: 2017 - 2020
-      location: Shenzhen, GD, China
+      location: Shenzhen, China
       description:
         - School of Data Science (former School of Science and Engineering)
         - First Class Honors; Completed undergrad one year in advance
@@ -39,37 +39,37 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: <a href="https://compling-wat.com/">CompLING Lab</a>, UWaterloo
+      institution: <a href="https://compling-wat.com/">CompLING Lab</a>, UWaterloo & Vector Institute
       year: 2024
-      location: Waterloo, ON, Canada
+      location: Waterloo, Canada
       description:
         - "Advisor: Prof. <a href='https://home.ttic.edu/~freda/'>Freda Shi</a>"
         - Multilingual LLM
     - title: Research Assistant
       institution: <a href="https://www.mrinmaya.io/">LRE Lab</a>, ETH Zurich
       year: 2024
-      location: Zurich, ZH, Switzerland
+      location: Zurich, Switzerland
       description:
         - "Advisor: Prof. <a href='https://www.mrinmaya.io/'>Mrinmaya Sachan</a>"
         - VLM reasoning ability
     - title: Research Assistant
       institution: <a href="https://cae.ethz.ch/">Chair of Applied Economics</a>, ETH Zurich
       year: 2023 - 2024
-      location: Zurich, ZH, Switzerland
+      location: Zurich, Switzerland
       description:
         - "Advisor: Prof. <a href='https://en.wikipedia.org/wiki/Peter_Egger'>Peter H. Egger</a>, Dr. <a href='https://susierao.github.io/about/'>Susie Xi Rao</a>"
         - Academic chatbot and Inference engine on scientific literatures
     - title: Master Thesis
       institution: <a href="https://rycolab.io/">Rycolab</a>, ETH Zurich
       year: 2023 - 2024
-      location: Zurich, ZH, Switzerland
+      location: Zurich, Switzerland
       description:
         - "Advisor: Prof. <a href='https://rycolab.io/authors/ryan/'>Ryan Cotterell</a>"
         - Probing
     - title: Research Assistant
       institution: Shenzhen Research Institute of Big Data
       year: 2020 - 2021
-      location: Shenzhen, GD, China
+      location: Shenzhen, China
       description:
         - "Advisor: Prof. <a href='https://sds.cuhk.edu.cn/en/teacher/268/'>Jianfeng Mao</a>"
         - ML/AI + Aviation
@@ -81,21 +81,15 @@
     - title: Algorithm Engineer Intern
       department: <a href="https://www.tencent.com/en-us/about.html">Tencent</a>
       year: 2021
-      location: Shenzhen, GD, China
+      location: Shenzhen, China
       description:
         - <a href="https://www.fitgroup.com/en/home">Financial Technology (FiT)</a>, Corporate Development Group
     - title: Software Development Engineer Intern
       department: AITO Automobile
       year: 2020
-      location: Shenzhen, GD, China
+      location: Shenzhen, China
       description:
         - Intelligent Automotive Solution (IAS) Dept.
-    - title: Data Research Analyst Intern
-      department: <a href="https://www.morningstar.cn/#/">Morningstar</a>
-      year: 2019
-      location: Shenzhen, GD, China
-      description:
-        - Operations Asia Dept.
 
 - title: Academic Interests
   type: nested_list
