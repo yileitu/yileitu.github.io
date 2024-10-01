@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: |
-    Nickname: tt <br>
+    Preferred Name: TT (just repeat the letter 'T' twice) <br>
     Chinese Name: 涂毅磊
 
 profile:
