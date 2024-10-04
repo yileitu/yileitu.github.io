@@ -3,7 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: |
-    Preferred Name: TT (just repeat the letter 'T' twice) <br>
+    Preferred English Name: Brunner
+    Nickname: TT (just repeat the letter 'T' twice) <br>
     Chinese Name: 涂毅磊
 
 profile:
