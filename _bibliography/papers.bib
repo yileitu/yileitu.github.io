@@ -1,12 +1,27 @@
 ---
 ---
 
+@article{multilingual_icl,
+    abbr = {arXiv},
+    author = {Tu, Yilei and Xue, Andrew and Shi, Freda},
+    title = {Blessing of Multilinguality: A Systematic Analysis of Multilingual In-Context Learning},
+    journal = {Preprint submitted to ARR 2025 Feb. arXiv preprint: arXiv:2502.11364},
+    year = {2025},
+    arxiv = {2502.11364},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.CL},
+    url = {https://www.arxiv.org/abs/2502.11364},
+    pdf = {https://www.arxiv.org/pdf/2502.11364},
+    abstract = {While multilingual large language models generally perform adequately, and sometimes even rival English performance on high-resource languages (HRLs), they often significantly underperform on low-resource languages (LRLs). Among several prompting strategies aiming at bridging the gap, multilingual in-context learning (ICL) has been particularly effective when demonstration in target languages is unavailable. However, there lacks a systematic understanding of when and why it works well.
+In this work, we systematically analyze multilingual ICL, using demonstrations in HRLs to enhance cross-lingual transfer. We show that demonstrations in mixed HRLs consistently outperform English-only ones across the board, particularly for tasks written in LRLs. Surprisingly, our ablation study shows that the presence of irrelevant non-English sentences in the prompt yields measurable gains, suggesting the effectiveness of multilingual exposure itself. Our results highlight the potential of strategically leveraging multilingual resources to bridge the performance gap for underrepresented languages.}
+}
+
 
 @article{lvlm,
-    abbr = {Manuscript},
-    author = {Giledereli, Buse and Hou, Yifan and Tu, Yilei and Sachan, Mrinmaya},
+    abbr = {arXiv},
+    author = {Hou*, Yifan and Giledereli*, Buse and Tu*, Yilei and Sachan, Mrinmaya},
     title = {Do Vision-Language Models Really Understand Visual Language?},
-    journal = {Preprint submitted to ICLR 2025. arXiv preprint: arXiv:2410.00193},
+    journal = {Preprint submitted to ICML 2025. arXiv preprint: arXiv:2410.00193},
     year = {2024},
     arxiv = {2410.00193},
     archivePrefix = {arXiv},
@@ -15,6 +30,7 @@
     pdf = {https://www.arxiv.org/pdf/2410.00193},
     abstract = {Visual language is a system of communication that conveys information through symbols, shapes, and spatial arrangements. Diagrams are a typical example of a visual language depicting complex concepts and their relationships in the form of an image. The symbolic nature of diagrams presents significant challenges for building models capable of understanding them. Yet, recent studies seem to suggest that Large Vision-Language Models (LVLMs) can even tackle complex reasoning tasks involving diagrams. In this paper, we investigate this phenomenon by developing a comprehensive test suite to evaluate the diagram comprehension capability of LVLMs. Our test suite uses a variety of questions focused on concept entities and their relationships over a set of synthetic as well as real diagrams across several domains to evaluate the recognition and reasoning abilities of models. Our evaluation of three LVLMs (GPT-4V, GPT-4o, and Gemini) shows that while these models can accurately identify and reason about entities, their ability to understand relationships is notably limited. Further testing reveals that the decent performance on diagram understanding largely stems from leveraging their background knowledge as shortcuts to identify and reason about the relational information. Thus, we conclude that LVLMs have a limited capability for genuine diagram understanding, and their impressive performance in diagram reasoning is an illusion emanating from other confounding factors, such as the background knowledge in the models. }
 }
+
 
 @article{complex_probe,
     abbr = {Manuscript},
@@ -30,7 +46,7 @@
     abbr = {IJCNLP 2023},
     title = {SAINE: Scientific Annotation and Inference Engine of Scientific Research},
     author = {Susie Xi Rao and Yilei Tu and Peter H. Egger},
-    journal = {Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: System Demonstrations},
+    journal = {IJCNLP-AACL 2023: System Demonstrations},
     year = {2023},
     month = {Nov},
     pages = {41--58},
@@ -71,3 +87,4 @@
     keywords = {Multi-airport systems, Flight estimated time of arrival, Medium-term prediction, Trajectory pattern clustering, Sequence-to-sequence model, Spatio-temporal features},
     abstract = {Predicting Estimated Time of Arrival (ETA) for a Multi-Airport System (MAS) is much more challenging than for a single airport system because of complex air route structure, dense air traffic volume and vagaries of traffic conditions in an MAS. In this work, we propose a novel “Bubble” mechanism to accurately predict medium-term ETA for a Multi-Airport System (MAS), in which the prediction of travel time of an origin–destination (OD) pair is decomposed into two stages, termed as out-MAS and in-MAS stages. For the out-MAS stage, Auto-Regressive Integrated Moving Average (ARIMA) is used to predict the travel time of a flight to reach the MAS boundary. For the in-MAS stage, we construct new spatio-temporal features based on clustering analysis of trajectory patterns facilitated by a novel data-driven hybrid polar sampling method. A sequence-to-sequence prediction model, Multi-variate Stacked Fully connected Bidirectional Long–Short Term Memory, is further developed to achieve multi-step-ahead predictions of in-MAS travel time for each trajectory pattern using the spatio-temporal features as input. Finally, the medium-term ETA prediction for an MAS is achieved by integrating the out-MAS and in-MAS prediction with the help of trajectory pattern prediction via random forest. A case study of predicting medium-term ETA for a typical MAS in China, Guangdong–Hong Kong–Macao Greater Bay Area, is conducted to demonstrate the usage and promising performance of the proposed method in comparison to several commonly used end-to-end learning methods.}
 }
+
