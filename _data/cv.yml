@@ -15,6 +15,13 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Computer Science
+      institution: University of British Columbia
+      year: (Expected) 2025 - 2029
+      location: Vancouver, Canada
+      description:
+        - UBC NLP Group
+        - "Advisors: Profs. <a href='https://cs.uwaterloo.ca/~fhs/'>Hila Gonen</a>, <a href='https://lingjzhu.github.io/'>Jian Zhu</a>, and <a href='https://www.isabelpapad.com/'>Isabel Papadimitriou</a>"
     - title: MSc in Data Science
       institution: ETH Zurich
       year: 2021 - 2024
@@ -22,12 +29,12 @@
       description:
         - Department of Computer Science
         - ETH Scholarship
+        - "Advisors: Profs. <a href='https://rycolab.io/authors/ryan/'>Ryan Cotterell</a> and <a href='https://lre.inf.ethz.ch/'>Mrinmaya Sachan</a>"
     - title: BSc in Statistics (Stream in Data Science)
       institution: The Chinese University of Hong Kong, Shenzhen (CUHKSZ)
       year: 2017 - 2020
       location: Shenzhen, China
       description:
-        - School of Data Science (former School of Science and Engineering)
         - First Class Honors; Completed undergrad one year in advance
         - Academic Performance Scholarship; Dean’s List (both 3 consecutive years)
     - title: Summer Visitor
@@ -45,21 +52,21 @@
       description:
         - "Advisor: Prof. <a href='https://home.ttic.edu/~freda/'>Freda Shi</a>"
         - Multilingual LLM
-    - title: Research Assistant
+    - title: Research Student
       institution: <a href="https://www.mrinmaya.io/">LRE Lab</a>, ETH Zurich
       year: 2024
       location: Zurich, Switzerland
       description:
         - "Advisor: Prof. <a href='https://www.mrinmaya.io/'>Mrinmaya Sachan</a>"
         - VLM reasoning ability
-    - title: Research Assistant
+    - title: Research Assistant (Part-time)
       institution: <a href="https://cae.ethz.ch/">Chair of Applied Economics</a>, ETH Zurich
       year: 2023 - 2024
       location: Zurich, Switzerland
       description:
         - "Advisor: Prof. <a href='https://en.wikipedia.org/wiki/Peter_Egger'>Peter H. Egger</a>, Dr. <a href='https://susierao.github.io/about/'>Susie Xi Rao</a>"
         - Academic chatbot and Inference engine on scientific literatures
-    - title: Master Thesis
+    - title: Research Student
       institution: <a href="https://rycolab.io/">Rycolab</a>, ETH Zurich
       year: 2023 - 2024
       location: Zurich, Switzerland
@@ -85,7 +92,7 @@
       description:
         - <a href="https://www.fitgroup.com/en/home">Financial Technology (FiT)</a>, Corporate Development Group
     - title: Software Development Engineer Intern
-      department: AITO Automobile
+      department: Huawei
       year: 2020
       location: Shenzhen, China
       description:
@@ -96,6 +103,6 @@
   contents:
     - title: NLP
       items: 
-        - Multilingual Language Models
+        - Multilingual & Multicultural LLMs/Speech Models/VLMs
         - Interpretability of Language Models
 
