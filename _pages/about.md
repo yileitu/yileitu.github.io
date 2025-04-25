@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: |
     Preferred English Name: Brunner <br>
-    Nickname: TT (just repeat the letter T twice) <br>
+    Nickname: TT <br>
     Chinese Name: 涂毅磊
 
 profile:
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to TT's personal website!
 
-**New**: I will pursue my CS PhD degree in [UBC NLP Group](https://nlp.cs.ubc.ca/) starting 2025 Fall, advised by Profs. [Hila Gonen](https://gonenhila.github.io/), [Jian Zhu](https://lingjzhu.github.io/) and [Isabel Papadimitriou](https://www.isabelpapad.com/).
+**Update**: I will pursue my CS PhD degree in [UBC NLP Group](https://nlp.cs.ubc.ca/) starting 2025 Fall, advised by Profs. [Hila Gonen](https://gonenhila.github.io/), [Jian Zhu](https://lingjzhu.github.io/) and [Isabel Papadimitriou](https://www.isabelpapad.com/).
 
 Previously, I was a Visiting Scholar at [CompLING Lab](https://compling-wat.com/), [UWaterloo](https://cs.uwaterloo.ca/), advised by [Prof. Freda Shi](https://home.ttic.edu/~freda/), focusing on multilingual LLM. Recently, I graduated from [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch/en.html) with MSc in Data Science. I was fortunate to be advised by [Prof. Ryan Cotterell](https://rycolab.io/authors/ryan/) and [Prof. Mrinmaya Sachan](https://lre.inf.ethz.ch/). My research interests lies in the field of Natural Language Processing (NLP), especially the multilingual and/or reasoning capability of Large Language Models (LLMs). 
 
