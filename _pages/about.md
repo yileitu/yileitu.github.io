@@ -19,10 +19,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 Welcome to TT's personal website!
 
-Starting September 2025, I will pursue a PhD in Computer Science in the [UBC NLP Group](https://nlp.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/), co-supervised by Profs. [Hila Gonen](https://gonenhila.github.io/)([CS Dept](https://www.cs.ubc.ca/)) and [Jian Zhu](https://lingjzhu.github.io/)([Linguistics Dept](https://linguistics.ubc.ca/)). I will also closely collaborate with [Isabel Papadimitriou](https://www.isabelpapad.com/). My research focuses on multilingual language models and speech models.
+Starting September 2025, I will be pursuing a Ph.D. in Computer Science at the [UBC NLP Group](https://nlp.cs.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/), co-supervised by Profs. [Hila Gonen](https://gonenhila.github.io/)([Department of Computer Science](https://www.cs.ubc.ca/)) and [Jian Zhu](https://lingjzhu.github.io/)([Department of Linguistics](https://linguistics.ubc.ca/)). I will also closely collaborate with Prof. [Isabel Papadimitriou](https://www.isabelpapad.com/). My research will focus on multilingual language models and speech models.
 
-Previously, I was a Visiting Scholar at [CompLING Lab](https://compling-wat.com/), [UWaterloo](https://cs.uwaterloo.ca/), advised by [Prof. Freda Shi](https://home.ttic.edu/~freda/), focusing on multilingual LLM. 
+Previously, I was a Visiting Scholar at the [CompLING Lab](https://compling-wat.com/) at the [University of Waterloo](https://cs.uwaterloo.ca/), where I worked with [Prof. Freda Shi](https://home.ttic.edu/~freda/), focusing on multilingual LLMs. 
 
-In 2024, I graduated from [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch/en.html) with MSc in Data Science. I was fortunate to be advised by [Prof. Ryan Cotterell](https://rycolab.io/authors/ryan/) and [Prof. Mrinmaya Sachan](https://lre.inf.ethz.ch/). My research interests lies in the field of Natural Language Processing (NLP), especially the multilingual and reasoning capabilities of LLMs. 
+In 2024, I earned my M.Sc. in Data Science from the from [Department of Computer Science](https://inf.ethz.ch/) at [ETH Zurich](https://ethz.ch/en.html), where I was fortunate to be advised by [Prof. Ryan Cotterell](https://rycolab.io/authors/ryan/) and [Prof. Mrinmaya Sachan](https://lre.inf.ethz.ch/). My research focused on Natural Language Processing (NLP), with an emphasis of reasoning capabilities of Vision LMs.
 
-In 2020, I obtained my bachelor degree in Statistics (Stream: Data Science) from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I gratefully received advice from [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/en/teacher/268) with focus on ML/AI+Aviation.
+In 2020, I obtained my bachelor degree in Statistics (Stream: Data Science) from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I gratefully received advice from [Prof. Jianfeng Mao](https://sds.cuhk.edu.cn/en/teacher/268) with focus on AI/ML × Aviation.
+
+Last Update: 2025-Aug-25
