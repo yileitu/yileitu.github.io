@@ -21,7 +21,7 @@
       location: Vancouver, Canada
       description:
         - UBC NLP Group
-        - "Advisors: Profs. <a href='https://cs.uwaterloo.ca/~fhs/'>Hila Gonen</a>, <a href='https://lingjzhu.github.io/'>Jian Zhu</a>, and <a href='https://www.isabelpapad.com/'>Isabel Papadimitriou</a>"
+        - "Advisors: Profs. <a href='https://cs.uwaterloo.ca/~fhs/'>Hila Gonen</a> and <a href='https://lingjzhu.github.io/'>Jian Zhu</a>"
     - title: MSc in Data Science
       institution: ETH Zurich
       year: 2021 - 2024
@@ -85,6 +85,12 @@
 - title: Internships
   type: time_table
   contents:
+    - title: Algorithm Intern
+      department: <a href="https://modelbest.cn/en">ModelBest</a>
+      year: 2025
+      location: Beijing, China
+      description:
+        - Multimodal Group. For <a href="https://huggingface.co/collections/openbmb/minicpm-o-and-minicpm-v-65d48fa84e358ce02a92d004">MiniCPM-o</a> model series.
     - title: Algorithm Engineer Intern
       department: <a href="https://www.tencent.com/en-us/about.html">Tencent</a>
       year: 2021
