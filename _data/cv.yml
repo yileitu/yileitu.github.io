@@ -15,12 +15,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: <s>PhD in Computer Science</s>
-      institution: <s>University of British Columbia</s>
-      year: "Deferred<br><s>2025 - 2029</s>"
-      location: <s>Vancouver, Canada</s>
-      description:
-        - "<s>Advisors: Profs. <a href='https://cs.uwaterloo.ca/~fhs/'>Hila Gonen</a> and <a href='https://lingjzhu.github.io/'>Jian Zhu</a></s>"
+    # - title: <s>PhD in Computer Science</s>
+    #   institution: <s>University of British Columbia</s>
+    #   year: "Deferred<br><s>2025 - 2029</s>"
+    #   location: <s>Vancouver, Canada</s>
+    #   description:
+    #     - "<s>Advisors: Profs. <a href='https://cs.uwaterloo.ca/~fhs/'>Hila Gonen</a> and <a href='https://lingjzhu.github.io/'>Jian Zhu</a></s>"
     - title: MSc in Data Science
       institution: ETH Zurich
       year: 2021 - 2024
